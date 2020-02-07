@@ -8,3 +8,5 @@
 4.Date and toDateString function
 
 5.for,for-in,while,do-while loops
+
+6.functions
