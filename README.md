@@ -10,3 +10,7 @@
 5.for,for-in,while,do-while loops
 
 6.functions
+
+7.Foreach loop
+
+8.Pattern
