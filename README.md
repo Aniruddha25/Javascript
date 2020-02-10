@@ -14,3 +14,5 @@
 7.Foreach loop
 
 8.Pattern
+
+9.To create object in Javascript
