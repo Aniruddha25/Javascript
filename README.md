@@ -16,3 +16,7 @@
 8.Pattern
 
 9.To create object in Javascript
+
+10.Checking User Password using includes() function and .length property
+
+11. LowerCase and UpperCase String Function
