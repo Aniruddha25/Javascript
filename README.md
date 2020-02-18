@@ -20,3 +20,5 @@
 10.Checking User Password using includes() function and .length property
 
 11. LowerCase and UpperCase String Function
+
+12.To generate random no. between particular range using Math.random()
