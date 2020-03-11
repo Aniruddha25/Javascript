@@ -24,3 +24,5 @@
 12.To generate random no. between particular range using Math.random()
 
 13.ARROW Function in Javascript
+
+14.amk.js and index.html webpage linking (note : LIVE SERVER EXTENSION is used for connecting server)
