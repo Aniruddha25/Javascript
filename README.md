@@ -28,3 +28,5 @@
 14.amk.js and index.html webpage linking (note : LIVE SERVER EXTENSION is used for connecting server)
 
 15.Mapping.js
+
+16.trycatch.js -Exception Handling in javascript
