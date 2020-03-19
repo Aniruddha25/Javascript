@@ -21,6 +21,6 @@ catch(error)
 /*finally{
     console.log(convertto$('a'))
 }
-//The finally statement lets you execute code, after try and catch, regardless of the result.
+//The finally statement lets you execute code, after try and catch, regardless of the result.*/
 
 console.log("ERROR !!!!")
